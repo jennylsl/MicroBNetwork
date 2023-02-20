@@ -39,6 +39,6 @@ Testing heterogeneity for three lung cancer cases
 Testing heterogeneity for control and cases
 ![image](https://user-images.githubusercontent.com/68125044/220180467-99d630ca-748b-494f-a1cc-bc5270a98a79.png)
 
-Testing heterogeneity for control and cases
+
 
 
