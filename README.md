@@ -26,8 +26,7 @@ library(MicroBNetwork)
 Framework
 ------------
 
-[Picture2.2.2frame2.pdf](https://github.com/jennylsl/MicroBNetwork/files/10787087/Picture2.2.2frame2.pdf)
-
+![Picture2 2 2frame2](https://user-images.githubusercontent.com/68125044/220179841-b6c94073-cc89-45a5-8493-6158d5ef0a57.png)
 
 Oral microbiome study in PLCO trial
 ------------
