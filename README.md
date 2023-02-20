@@ -5,9 +5,8 @@ Hubs, Multiple Conditions, and Complex Design.
 
 
 1.  [Installation](#installation)
-2.  [Basic Usage](#basic-usage)
-3.  [Prostate, Lung, Colorectal, and Ovarian Trial ![image](https://user-images.githubusercontent.com/68125044/220179012-d7635510-883e-493f-87ef-3ba0db1ec19c.png)
-](#plco)
+2.  [Framework](#framework)
+3.  [Prostate, Lung, Colorectal, and Ovarian Trial](#plco)
 
 
 Installation
@@ -23,4 +22,15 @@ library(devtools)
 install_github("jennylsl/MicroBNetwork")
 library(MicroBNetwork)
 ```
+
+Framework
+------------
+
+[Picture2.2.2frame2.pdf](https://github.com/jennylsl/MicroBNetwork/files/10787087/Picture2.2.2frame2.pdf)
+
+
+Oral microbiome study in PLCO trial
+------------
+
+Three lung cancer cases: Adenocarcinoma (LUAD), Small cell carcinoma (LUSCC), Squamous cell carcinoma (LUSC), and healthy controls
 
