@@ -5,9 +5,9 @@ Hubs, Multiple Conditions, and Complex Design.
 
 
 1.  [Installation](#installation)
-2.  [News](#news)
-3.  [Basic Usage](#basic-usage)
-4.  [American Gut Data](#analysis-of-american-gut-data)
+2.  [Basic Usage](#basic-usage)
+3.  [Prostate, Lung, Colorectal, and Ovarian Trial ![image](https://user-images.githubusercontent.com/68125044/220179012-d7635510-883e-493f-87ef-3ba0db1ec19c.png)
+](#plco)
 
 
 Installation
