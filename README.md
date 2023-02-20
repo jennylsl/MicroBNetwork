@@ -14,23 +14,7 @@ Installation
 ------------
 
 ### devtools ###
-I assume that all auxiliary packages are already installed - for example pulsar, huge, MASS, etc.
-If you get an unexpected error, you may need to download and install a missing dependency.
-
-From an interactive R session:
-
-```{r, eval=FALSE}
-library(devtools)
-install_github("zdk123/SpiecEasi")
-library(SpiecEasi)
-```
-## packages required
-R packages vegan, plyr
-## Installation ##
-
-
-### devtools ###
-
+R packages vegan, plyr installed.
 
 From an interactive R session:
 
@@ -38,5 +22,5 @@ From an interactive R session:
 library(devtools)
 install_github("jennylsl/MicroBNetwork")
 library(MicroBNetwork)
-
 ```
+
