@@ -33,3 +33,12 @@ Oral microbiome study in PLCO trial
 Three lung cancer cases: Adenocarcinoma (LUAD), Small cell carcinoma (LUSCC), Squamous cell carcinoma (LUSC), and healthy controls
 ![image](https://user-images.githubusercontent.com/68125044/220180154-e47775ea-d430-4558-a7e6-53e49b37d28e.png)
 
+Testing heterogeneity for three lung cancer cases
+![image](https://user-images.githubusercontent.com/68125044/220180421-6c635d68-b1b0-4689-9a6d-5c8fcec281d3.png)
+
+Testing heterogeneity for control and cases
+![image](https://user-images.githubusercontent.com/68125044/220180467-99d630ca-748b-494f-a1cc-bc5270a98a79.png)
+
+Testing heterogeneity for control and cases
+
+
